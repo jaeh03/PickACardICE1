@@ -16,7 +16,7 @@ public class CardTrick {
        
        Card c2 = new Card(); 
        c2.setSuit("Hearts");
-       c2.getValue(7); 
+       c2.setValue(7); 
         
     }
     
